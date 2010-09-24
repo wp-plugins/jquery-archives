@@ -20,7 +20,7 @@ define( 'WP_PLUGIN_URL', WP_CONTENT_URL. '/plugins' );
 if ( ! defined( 'WP_PLUGIN_DIR' ) )
 define( 'WP_PLUGIN_DIR', WP_CONTENT_DIR . '/plugins' );
 
-
+// Adds the jQuery and jQuery-ui librairies
 function wp_js_head()
 {
     if ( !wp_script_is( 'jquery' ) ) {
