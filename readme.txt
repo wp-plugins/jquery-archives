@@ -19,4 +19,13 @@ jQuery Archives displays all your Wordpress published posts in a chronogical ord
 4. Insert the function jquery_archives(); inside your template
 5. Create a new page that uses the Archives template
 
-Voilà, you're done !
+== Screenshots ==
+You can view a screenshot [here](http://itx-technologies.com/blog/jquery-archives-plugin)
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release.
+
+= 1.0.1 =
+* Small bug fixes
